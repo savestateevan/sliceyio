@@ -1,0 +1,20 @@
+{
+  "node": {
+    "06d5b3c2d5deebd0e610e3db36e2129241c17d56": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmnt%2Fc%2FUsers%2Fecast%2FOneDrive%2FDesktop%2Fproject1%2Fsliceyio%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/sign-up/[[...sign-up]]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmnt%2Fc%2FUsers%2Fecast%2FOneDrive%2FDesktop%2Fproject1%2Fsliceyio%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/jobs/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmnt%2Fc%2FUsers%2Fecast%2FOneDrive%2FDesktop%2Fproject1%2Fsliceyio%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/sign-in/[[...sign-in]]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmnt%2Fc%2FUsers%2Fecast%2FOneDrive%2FDesktop%2Fproject1%2Fsliceyio%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/sign-up/[[...sign-up]]/page": "action-browser",
+        "app/jobs/page": "action-browser",
+        "app/sign-in/[[...sign-in]]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "uX3GmnD3bdaG4I7y7jECfe01/LbY3KxB1hJ6rnjtdp8="
+}
